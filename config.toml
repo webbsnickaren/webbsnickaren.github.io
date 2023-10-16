@@ -10,13 +10,13 @@ unsafe= true
 ######################### navigation ##############################
 
 [[menu.main]]
-name = "Home"
+name = "Hem"
 pre = ""
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
+name = "Om Oss"
 pre = "#"
 url = "mission"
 weight = 2

@@ -3,7 +3,7 @@
 banner:
   title : "Vi bygger hemsidan till dig"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "Fokusera vad du är bäst på, så gör vi detsamma."
   button:
     enable : true
     label : "Kontakta oss"

@@ -1,7 +1,7 @@
 ############################# English ############################
 [en]
 languageName = "En"
-title = "Bigspring Hugo"
+title = "Webbsnickaren"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
@@ -14,15 +14,15 @@ copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethu
 
 
 
-############################# Deutsch ############################
-[de]
-languageName = "De"
-title = "Bigspring Hugo"
-contentDir = "content/deutsch" # content/german
+############################# Svenska ############################
+[se]
+languageName = "Se"
+title = "Webbsnickaren"
+contentDir = "content/svenska"
 weight = 2
 ########### footer content ##########
-footer_menu_left = "Firma"
-footer_menu_middle = "Produkte"
+footer_menu_left = "Företag"
+footer_menu_middle = "Produkt"
 footer_menu_right = "Support"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
 # copyright

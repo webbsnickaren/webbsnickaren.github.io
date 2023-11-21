@@ -1,21 +1,21 @@
 # main menu
 [[main]]
-name = "Home"
+name = "Hem"
 url = "/"
 weight = 1
 
-[[main]]
-name = "Blog"
-url = "blog/"
-weight = 2
+#[[main]]
+#name = "Blogg"
+#url = "blog/"
+#weight = 2
 
 [[main]]
-name = "Pricing"
+name = "Pris"
 url = "pricing/"
 weight = 3
 
 [[main]]
-name = "Contact"
+name = "Kontakt"
 url = "contact/"
 weight = 4
 
@@ -26,15 +26,15 @@ weight = 5
 
 # footer menu left
 [[footer_left]]
-name = "About Us"
+name = "Om oss"
 url = "#"
 
 [[footer_left]]
-name = "Quick Start"
+name = "Kom igång"
 url = "#"
 
 [[footer_left]]
-name = "Pricing"
+name = "Pris"
 url = "pricing/"
 
 

@@ -1,4 +1,6 @@
-######################## default configuration ####################
+languageCode = 'sv'
+defaultContentLanguage = 'sv'
+
 baseURL = "https://webbsnickaren.se/"
 title = "Webbsnickaren"
 theme = "bigspring-light"

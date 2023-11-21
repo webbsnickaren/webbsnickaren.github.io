@@ -11,5 +11,5 @@ draft: false
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
 
 * **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
+* **Mail: webbsnickaren@protonmail.com**
 * **Address: 360 Main rd, Rio, Brazil**

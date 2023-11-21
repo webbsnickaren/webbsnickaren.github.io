@@ -19,10 +19,10 @@ name = "Kontakt"
 url = "contact/"
 weight = 4
 
-[[main]]
-name = "FAQ"
-url = "faq/"
-weight = 5
+#[[main]]
+#name = "FAQ"
+#url = "faq/"
+#weight = 5
 
 # footer menu left
 [[footer_left]]
@@ -33,23 +33,23 @@ url = "#"
 name = "Kom igång"
 url = "#"
 
-[[footer_left]]
-name = "Pris"
-url = "pricing/"
+#[[footer_left]]
+#name = "Pris"
+#url = "pricing/"
 
 
 # footer menu middle
 [[footer_middle]]
-name = "Pricing"
+name = "Pris"
 url = "pricing/"
 
-[[footer_middle]]
-name = "Platform"
-url = "#"
+#[[footer_middle]]
+#name = "Platform"
+#url = "#"
 
-[[footer_middle]]
-name = "Features"
-url = "#"
+#[[footer_middle]]
+#name = "Features"
+#url = "#"
 
 # footer menu right
 [[footer_right]]
@@ -60,6 +60,6 @@ url = "privacy-policy/"
 name = "Terms & Conditions"
 url = "terms-conditions/"
 
-[[footer_right]]
-name = "FAQ"
-url = "faq/"
+#[[footer_right]]
+#name = "FAQ"
+#url = "faq/"

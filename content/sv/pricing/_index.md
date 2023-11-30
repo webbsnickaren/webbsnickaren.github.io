@@ -2,7 +2,7 @@
 title: "Pris"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "Pris"
 draft: false
 
 basic:

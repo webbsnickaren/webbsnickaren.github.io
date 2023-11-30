@@ -7,7 +7,7 @@
   border-radius: 10px;
   padding: 20px;
   transition: .2s ease;
-  background-color: $white;
+  background-color: #101418;
 
   &:hover {
     @extend .shadow;
@@ -360,4 +360,8 @@ a.post-title {
 .price{
   font-size: 50px;
   color: $text-color-dark;
+}
+
+.card {
+  background-color: #101418;
 }

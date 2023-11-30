@@ -24,7 +24,7 @@ link = "contact"
 
 # cookies
 [cookies]
-enable = false
+enable = true
 expire_days = 2
 content = "Denna sidan använder kakor. Genom att använda denna hemsida accepterar du dessa."
 button = "Jag godkänner"

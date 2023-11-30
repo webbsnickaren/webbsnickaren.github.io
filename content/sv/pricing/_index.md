@@ -1,5 +1,5 @@
 ---
-title: "Pricing"
+title: "Pris"
 subtitle: ""
 # meta description
 description: "This is meta description"

@@ -27,7 +27,7 @@ weight = 4
 # footer menu left
 [[footer_left]]
 name = "Om oss"
-url = "#"
+url = "about/"
 
 [[footer_left]]
 name = "Kom igång"
@@ -52,13 +52,13 @@ url = "pricing/"
 #url = "#"
 
 # footer menu right
-[[footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy/"
+# [[footer_right]]
+# name = "Privacy Policy"
+# url = "privacy-policy/"
 
-[[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
+# [[footer_right]]
+# name = "Terms & Conditions"
+# url = "terms-conditions/"
 
 #[[footer_right]]
 #name = "FAQ"

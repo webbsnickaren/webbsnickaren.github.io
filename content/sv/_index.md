@@ -12,43 +12,43 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "Vad vi erbjuder"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
+    - name : "Webbutveckling"
       icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Vi tillhandahåller skräddarsydda lösningar som passar ditt bolag, stort som litet"
       
     # feature item loop
-    - name : "Object Oriented"
+    - name : "Synlighet"
       icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Vi får dig att synas på Internet, och sticka ut bland allt innehåll på sociala medier"
       
     # feature item loop
     - name : "24h Service"
       icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Vi ger dig snabb support<br><br>"
       
     # feature item loop
-    - name : "Value For Money"
+    - name : "Personlig kontakt"
       icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Vi tror på att en bra personlig kontakt är en grundförutsättning för bra samarbete"
       
-    # feature item loop
-    - name : "Faster Response"
-      icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    # # feature item loop
+    # - name : "Faster Response"
+    #   icon : "fas fa-tachometer-alt"
+    #   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
-    # feature item loop
-    - name : "Cloud Support"
-      icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    # # feature item loop
+    # - name : "Cloud Support"
+    #   icon : "fas fa-cloud"
+    #   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
 
 
 ######################### Service #####################
 service:
-  enable : true
+  enable : false
   service_item:
     # service item loop
     - title : "It is the most advanced digital marketing and it company."
@@ -95,7 +95,7 @@ service:
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "Experience the best <br> workflow with us"
+  title : "Något här.."
   image : "images/screenshot.svg"
 
   
@@ -103,11 +103,11 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
+  title : "Redo att samarbeta?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "Låt oss hjälpa dig och ditt bolag att synas, samtidigt som du kan fokusera vad du gör bäst"
   button:
     enable : true
-    label : "Contact Us"
+    label : "Kontakta oss"
     link : "contact/"
 ---

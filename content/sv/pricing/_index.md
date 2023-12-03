@@ -5,57 +5,56 @@ subtitle: ""
 description: "Pris"
 draft: false
 
-basic:
-  name : "Basic Plan"
-  price: "$49"
-  price_per : "month"
-  info : "Best For Small Individuals"
-  services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
-  button:
-    enable : true
-    label : "Get started for free"
-    link : "#"
+# basic:
+#   name : "Basic Plan"
+#   price: "$49"
+#   price_per : "month"
+#   info : "Best For Small Individuals"
+#   services:
+#   - "Express Service"
+#   - "Customs Clearance"
+#   - "Time-Critical Services"
+#   button:
+#     enable : true
+#     label : "Get started for free"
+#     link : "#"
     
 professional:
-  name : "Professional Plan"
-  price: "$49"
-  price_per : "month"
-  info : "Best For Professionals"
+  name : "Hemsida"
+  price: "Från 1000kr"
+  price_per : "mån"
+  info : "Bäst för dig utan stora behov"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
-  - "Cloud Service"
-  - "Best Dashboard"
+  - "Webbhotell"
+  - "Domännamn"
+  - "Egen design"
+  - "Personlig service"
   button:
     enable : true
-    label : "Get started for free"
-    link : "#"
+    label : "Kontakta oss"
+    link : "/contact"
     
-business:
-  name : "Business Plan"
-  price: "$49"
-  price_per : "month"
-  info : "Best For Large Individuals"
-  services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
-  button:
-    enable : true
-    label : "Get started for free"
-    link : "#"
+# business:
+#   name : "Business Plan"
+#   price: "$49"
+#   price_per : "month"
+#   info : "Best For Large Individuals"
+#   services:
+#   - "Express Service"
+#   - "Customs Clearance"
+#   - "Time-Critical Services"
+#   button:
+#     enable : true
+#     label : "Get started for free"
+#     link : "#"
 
 call_to_action:
   enable : true
-  title : "Need a larger plan?"
+  title : "Behöver du något skräddarsytt?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "Oavsett vad du behöver hjälp med, finns webbsnickaren här för dig. Bara hör av dig så gör vi vad vi kan för att tillgodose dina behov."
   button:
     enable : true
-    label : "Contact Us"
+    label : "Kontakta oss"
     link : "contact/"
 ---

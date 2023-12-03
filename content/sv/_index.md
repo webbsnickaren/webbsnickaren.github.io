@@ -27,7 +27,7 @@ feature:
     # feature item loop
     - name : "24h Service"
       icon : "fas fa-user-clock"
-      content : "Vi ger dig snabb support<br><br>"
+      content : "Vi är tillgängliga för dig vid frågor eller support. Vi garanterar snabb återkoppling"
       
     # feature item loop
     - name : "Personlig kontakt"

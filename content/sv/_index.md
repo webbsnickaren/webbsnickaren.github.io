@@ -3,7 +3,7 @@
 banner:
   title : "Vi bygger hemsidan till dig"
   image : "images/banner-art.svg"
-  content : "Fokusera vad du är bäst på, så gör vi detsamma."
+  content : "Vi är en webbyrå med fokus på långsiktiga lösningar och ser till att din webbsida blir en lönsam och vinstgivande investering. Vi hjälper dig med webbutveckling, digital marknadsföring och ser till att ditt företag får en stark närvaro online."
   button:
     enable : true
     label : "Kontakta oss"

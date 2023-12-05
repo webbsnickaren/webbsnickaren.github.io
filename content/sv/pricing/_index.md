@@ -5,19 +5,20 @@ subtitle: ""
 description: "Pris"
 draft: false
 
-# basic:
-#   name : "Basic Plan"
-#   price: "$49"
-#   price_per : "month"
-#   info : "Best For Small Individuals"
-#   services:
-#   - "Express Service"
-#   - "Customs Clearance"
-#   - "Time-Critical Services"
-#   button:
-#     enable : true
-#     label : "Get started for free"
-#     link : "#"
+basic:
+  name : "Skräddarsytt"
+  price: ""
+  price_per : ""
+  info : "För dig mer större behov"
+  services:
+  - "SEO"
+  - "Sociala Medier"
+  - "E-handel"
+  - "Med mera..."
+  button:
+    enable : true
+    label : "Kontakta oss"
+    link : "/contact"
     
 professional:
   name : "Hemsida"

@@ -1,24 +1,26 @@
 {{ define "main" }}
 
 
-{{ with .Params.gg }}
-{{ if .enable }}
+{{ if .Params.gg.enable }}
 <section class="section">
   <div class="container section shadow rounded-lg px-4">
     <div class="row align-items-center justify-content-center text-center text-md-left">
       <div class="col-lg-4 col-md-5 mb-4 mb-md-0">
-        <img src="{{ .image | relURL }}" alt="" class="img-fluid">
+        <img src="{{ .Params.gg.image | relURL }}" alt="" class="img-fluid">
       </div>
       <div class="col-lg-5 col-md-6">
-        <h2 class="section-title">{{ .title | markdownify }}</h2>
-        {{with .content }}<p class="mb-4">{{ . | markdownify }}</p>{{ end }}
-        <h3 class="section-subtitle">{{ .subtitle | markdownify }}</h3>
-        {{with .subcontent }}<p class="mb-4">{{ . | markdownify }}</p>{{ end }}
+        <h2 class="section-title">{{ .Params.gg.title | markdownify }}</h2>
+        {{with .Params.gg.contents }}<p class="mb-4">{{ . | markdownify }}</p>{{ end }}
+        <h3 class="section-subtitle">{{ .Params.gg.subtitle | markdownify }}</h3>
+        {{with .Params.gg.subcontent }}<p class="mb-4">{{ . | markdownify }}</p>{{ end }}
+      </div>
+
+      <div class="col-lg-10 mx-auto">
+        <div class="content">{{ .Content }}</div>
       </div>
     </div>
   </div>
 </section>
-{{ end }}
 {{ end }}
 
 {{ end }}

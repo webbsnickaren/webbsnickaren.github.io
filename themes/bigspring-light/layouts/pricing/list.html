@@ -9,7 +9,9 @@
         <div class="card shadow">
           <div class="card-body text-center py-5">
             <h3 class="mb-4">{{ .name | markdownify }}</h3>
+            {{ if .price }}
             <span class="price">{{ .price }}</span><span>/{{ .price_per }}</span>
+            {{ end }}
             <p class="lead">{{ .info | markdownify }}</p>
             <ul class="list-unstyled mb-5">
               {{ range .services }}

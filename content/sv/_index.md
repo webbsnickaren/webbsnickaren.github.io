@@ -95,7 +95,7 @@ service:
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "Något här.."
+  title : "Vi är med dig från idé till produkt"
   image : "images/screenshot.svg"
 
   

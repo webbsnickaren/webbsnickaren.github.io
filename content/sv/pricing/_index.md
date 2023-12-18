@@ -22,9 +22,9 @@ basic:
     
 professional:
   name : "Hemsida"
-  price: "Från 1000kr"
+  price: "Från 1449kr"
   price_per : "mån"
-  info : "Bäst för dig utan stora behov"
+  info : "För företagaren med små behov"
   services:
   - "Webbhotell"
   - "Domännamn"

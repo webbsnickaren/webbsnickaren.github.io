@@ -1,6 +1,6 @@
 #################### default parameters ################################
-logo = "images/saw_hammer logo scaled.png"
-logo_width = "200px"
+logo = "images/webbsnickaren_logo_scaled.png"
+logo_width = "250px"
 # OpenGraph / Twitter Card metadata
 description = "Webbsnickaren, vi hjälper dig skapa en hemsida, att förbättra din SEO, och att synas på Internet och i sociala medier"
 author = "Webbsnickaren"

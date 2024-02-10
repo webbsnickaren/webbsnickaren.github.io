@@ -22,7 +22,7 @@ basic:
     
 professional:
   name : "Hemsida"
-  price: "Från 1449kr"
+  price: "Från 800kr"
   price_per : "mån"
   info : "För företagaren med små behov"
   services:
